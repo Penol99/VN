@@ -1,0 +1,55 @@
+;;-M
+The sky is awfully sunny for wintertime. The glare even pierces through the windows of this already brightly lit breakroom.
+Shining... which reminds me:
+Today is when real personalities shine out more than any other occasion. Getting to see new sides to your co-workers are one thing, but enhancing the only aspect they have is another. 
+I suppose it is a positive that the structured facade of everyones day to day behaviour lets down a bit, I'm just afraid of what this scenario would be like tonight, outside, with at least quadruple the amount of shiny people.
+
+BG_mock_breakroom
+
+*bag sound* I must be prepared.
+*crunch*
+Right now it's 1pm. Level of excitement in the office: Above average.
+*crunch*
+Is my work done? If they won't bother me, the odds are large.
+*crunch*
+Timeframe to execute attempt one : 19:00 - 00:00. Plenty for five subjects.
+*crunch*
+Coworker at 9 o'clock approaching at full speed? Yes.
+*bang shake noise*
+
+;;-CW1
+char_josh_shock
+[RIGHT]
+[SLIDE UP]
+"The manager is eating chips!?"
+char_josh_shock
+[RIGHT]
+[BANG SHAKE]
+"Are you finally getting to filling that rickety body of yours?"
+char_josh_neutral
+[RIGHT]
+[]
+"Letting yourself go for today?"
+"whaaa.."
+char_josh_annoyed
+[RIGHT]
+[BANG SHAKE]
+[REMOVE]
+[RIGHT]
+
+;;-M
+... and he's the latter.
+"If I wanted to gain weight, chips would not be the food of choice."
+whipping cream is the recommended method.
+As always this man will put all his focus on pointing out differences instead of coming with something new. How does his brain work?
+
+;;-CW1
+char_josh_neutral
+[RIGHT]
+"Here I thought this could've been the start to a new image.. Manager, you never change."
+
+;;-M
+He's telling me this? Then i suppose nothing of sense goes on in this mans head.
+
+-+-
+

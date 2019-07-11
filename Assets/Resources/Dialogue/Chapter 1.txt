@@ -1,0 +1,1287 @@
+﻿;;-???
+BG_game
+
+“Jump! You have to jump there! Aw, you lost sis!”
+SONG #0
+BG_game
+[FADE IN]
+;;-Maya
+“Alright, i played with you, now get on with your assignments.”
+
+;;-???
+“Yeah yeah...”
+“Hey sis, you have to play with me again next time okay?! I need you for it since it’s co-op.”
+
+;;-Maya
+“Maybe next time.”
+...
+“How about now?”
+
+
+
+
+;;-???
+“Huh? Who plays those anymore.”
+BG_chris_closeup_1
+[FADE IN]
+“Hey, you should look at my score in this game, I’m getting mad good at online tournaments”
+
+-Hey, will you look at my score?-
+
+%%2
+Ofcourse
+No
+
+
+(1)#1
+“You’re joking.”
+(End Choice)
+
+(1)#2
+“Thought so.”
+(End Choice)
+
+BG_white
+[FADE IN]
+;;-Maya
+“huh?”
+“Oh, the papers... sorry, I’ll pick them up...”
+BG_papers
+[FADE IN]
+
+“Chris?”
+“Where are you going?”
+“Hey, that way doesn’t lead you anywhere, wait--”
+“Chris? What score did you get? You haven’t told me!”
+”...I can’t tell your face from here.”
+“Chris,”
+“-Chris!
+
+
+;;-Chris
+“Shut up!”
+BG_chris_closeup_2
+[SCREEN SHAKE]
+
+//Scenery Change
+
+;;-Maya
+“Ah!”
+BG_ceiling_night
+
+;;-
+Just like that.
+SONG #1
+My dreams have been repeating like this for the past 364 days.
+It might seem strange to give off a reaction towards something you’ve been through over 300 times. But...
+
+They say dreams show your deepest emotions.
+When the subconscious filters through memories, events can act out to show how you really feel.
+Humans can go a lifetime staying emotionally dedicated to something. Like doing the same craft day in, day out.
+
+...
+
+Not that I need to tell myself that at this point.
+I thought that maybe this once a new scene would appear...
+What time is it, 5 am? Not a single deviation.
+In any case…
+;;-Maya
+”I have to get up.”
+
+
+;;-Time
+[13:00 Sunday]
+BG_breakroom
+[FADE IN]
+;;-
+The sky is awfully sunny for wintertime.
+A glare from the window makes this break room appear bright like in summer.
+Shining down... which reminds me,
+
+Today is an occasion where personalities shine more than usual, that’s what i read in the book “fundamentals of emotion”. Getting to see new sides to your co-workers could be an upper, but enhancing the only aspect they have can be a downer. 
+I suppose it is a positive that the structured facade of everyones day-to-day behaviour lets down a bit. I’m just afraid of what this scenario would be like tonight, outside, with at least quadruple the amount of people showing their so called “shine”.
+Regardless of how hectic tonight may become, I’m going to use this opportunity to try out my creations for real.
+For long enough, that dream has been bothering me about a single problem.
+Feeling uneasy, like you can’t understand someone shouldn’t last this long. Even the most complex personalities can and should be solved.
+Since everything is built on laws and logic, all matter can be deconstructed into its simplest forms. When personalities are enhanced, the ropes to untying their problems become more tangible and clear to deal with.
+;;-Maya
+“The more kinds of people you’ve known, the easier it gets to recognize and understand someone you’ve just met.”
+“Just as if, that person were part-someone else.”
+;;-
+In that sense,
+Don’t you think it’s possible to categorize and know every kind of person there is? 
+Is that not how we recognize characters in fiction?
+But then again, when we are puzzled by the characters actions, isn’t that showing we don’t know everything?
+I don’t know. The one thing i don’t know.
+;;-Maya
+“Humans are far more interesting than any man-constructed piece of technology. Because, human variables change every second of their existence.”
+;;-
+Technology never changes. It remains static so long as you don’t make a change yourself.
+But the changes are always known; built on what we know and put onto an man-made device.
+To think man prioritizes things over learning the full scope of the human mind. Where do they think we will go? Creating a future made by those who don’t know how to control themselves.
+Continuously pumping out faulty people like this.
+Mankind's biggest failure.
+
+I sound overly ambitious. Even if I try to discover more about the human mind, I won’t go much further than your typical counsellor, It’s just that I’ve found one-on-one talks to be antiquated.
+I have a different method to work around it. A method I’ve been making for 360 days.
+;;-Maya
+“What if you could help someone without them “knowing” about it?”
+;;-
+In a sense games do this, interactive rpgs that help players feel better about themselves. Questions asked towards a player are constructed around predictions they have about them; boiled down to generic, relatable problems anyone could have.
+In the end, the player should feel that they have more insight into themselves. Similar to your average counselling session.
+
+It works since that person doesn’t actually exist. However, talking to someone you don’t know about your deepest feelings is too unnatural for the individual to think like they normally would.
+A fictional character in a world you enjoy is much easier to open up to. At least that’s what i read in “the psychology of rpg’s”
+;;-Maya
+“Isn’t that what escapism is all about?”
+
+// [Hand showing chip appears in front of screen]
+;;-
+I’m going to need three subjects.
+This chip I’d like to call a DC-1 [DreamCatcher Type 1]. Constructed with the ability to break down in the hosts digestive system and assimilate with the brain when consumed orally.
+I’d like to think it works like an advanced medical drug, or like a mod in a game.
+The mod should let me control and monitor parts of the host remotely.
+
+For this attempt the DC-1 will be used to trigger a dream in the host that is then viewable through your average computer screen, or just mine to be specific.
+It’s My very own possibly revolutionary invention.
+
+Of course, I wouldn’t want to put faulty untested devices into living humans so I ingested some myself.
+
+Now i’m sure, after testing nine models, the tenth will work.
+
+The ultimate goal of all this trouble: Help counsel someone through their problem.
+Not just anyone. Someone with “clear” dreams, but a troubled personality. 
+If the saying that “those who struggle the most are the hardest to notice” is true, their subconscious thoughts should show strong Impressions, whilst their exterior remains abnormally neutral. That too, i read in a book.
+Using the DC-1 is definitely not me cheating, although to some it may not seem right. I’d say they are stupid.
+Those ideas are stupid.
+If this method is effective, I’ll have a tool far more powerful than the most articulated counselor has for solving problems.
+Combining psychology and technology to help humanity advance, Is my true ambition.
+
+I’d like to say I’m good at every field, but talking as a means to figure out someones problems is probably my weakest point. As indicated in my I-D… I wonder why they decided to add xp meters for such complex human functions.
+
+
+// *bag sound*  
+;;-Maya
+"I’m staying prepared".
+
+;;-
+*crunch*
+Right now it’s 1:30pm. Level of excitement in the office: Above average.
+*crunch*
+
+Is my work done? If they won’t bother me, the odds are large.
+*crunch*
+
+Timeframe to execute attempt one : 19:00 - 00:00. Plenty for three subjects.
+*crunch*
+
+Coworker at 9 o’clock approaching at full speed? Yes.
+
+// *bang shake noise*
+;;-Josh
+
+“The manager is eating chips!? Are you finally getting to filling that rickety body of yours?”
+char_josh_shock
+[MIDDLE]
+[SLIDE UP]
+
+“Letting yourself go for today?” 
+char_josh_neutral
+[MIDDLE]
+[]
+
+“Whaaa...”
+char_josh_shock
+[MIDDLE]
+[BANG SHAKE]
+
+;;-
+Josh, my co-worker, appears flabbergasted for no real reason.
+... and he’s a downer, too.
+
+;;-Maya
+“If I wanted to gain weight, chips would not work well.”
+“whipping cream is the recommended choice. I read that- nevermind.”
+
+;;-Josh
+
+“And here I thought this could’ve been the start to your new image.. Manager, you never change.”
+char_josh_annoyed
+[MIDDLE]
+[]
+
+;;-
+Why don’t you change for a start?
+
+;;-SPEAKERS
+*Ding dong* “Chief executive speaking, important message for all of Bhaume.Co:"
+"Well then, everyone. It is only around an hour left until we close the company for today, have fun and take a good time relaxing after you’ve finished up your last pieces of work. Happy new year! That is all." *mic cut off* 
+
+;;-Josh
+
+“So, what are you doing for tonight? Not bar-hopping i’m guessing.
+char_josh_neutral
+[MIDDLE]
+[]
+
+;;-Josh
+
+”Before you ask! I am going to a most exclusive dinner party at the Skyloft. This is my reward for all that overtime, no regretting my economy for today! No regrets…”
+
+;;-Maya
+
+“...you’re still talking to me?”
+;;-Josh
+
+What!? Am i being even further ignored by you? Are your plans so important that my presence is dissolving right in front of you? Were those chips laced?!
+char_josh_shock
+[MIDDLE]
+[]
+
+;;-Maya
+
+“Pile on more questions and i’ll record it in your report, I’ll answer the one with most significance: I am in a sense bar-hopping today, With a specific motive in mind.”
+
+;;-Josh
+
+“Manager, you’re scaring me, why are you so different today?”
+
+char_josh_annoyed
+[MIDDLE]
+[]
+
+”Is this it? Is she going for the career-crushing motive: Find a man , marry him and become a housewife?? NOOOOO-”
+
+char_josh_shock
+[MIDDLE]
+[]
+
+;;-
+I should leave before he escalates even more.
+
+;;-Maya
+
+-”Have a good time at skyloft, Happy new year’s.”
+
+*walk off in silence*
+
+;;-Time
+[13:00]
+
+
+
+;;-
+// OUTSIDE PARROT CAFE
+leaving the office doors brings me into a large crowded walkway, eager to rush off work for tonight’s celebration. All you see is either regular people or employees in black suits. I’m not that different.
+[REMOVE]
+[MIDDLE]
+[REMOVE]
+[MIDDLE]
+BG_city
+[FADE IN]
+
+… but I’m not going home yet. Knowing the turmoil that awaits on the subway, I got my change ready beforehand in a large paper bag.
+
+As for where to get changed, the best place would be Parrot Cafe.
+
+A popular spot for high-profile employees, yet it has an invisible barrier preventing not just anyone from going inside.
+
+No, the Parrot Cafe is not some private magic domain.
+The calm nature remains since no-one dare sit beside their boss during coffee break; That’s at least what Josh told me, and his guess seems legible enough.
+
+Entering the cafe, I leave for the restroom with my bag and come back to my window seat and laptop.
+
+BG_cafe
+[FADE IN]
+
+What now, there’s plenty of time before i start, so i might as well remain here for the time being.
+Luckily Josh doesn’t come here due to his fear of bosses.
+
+Drinking americano under this verdant decor makes for the best kind of workplace. How could you dismiss a place like this for a fear of bosses, honestly.
+
+Now, let’s go through the plan again.
+On my browser are three destinations: Gold Swan, Mega PC Cafe and the New Year's Market.
+Starting at 7pm, I’ll go through all three places and look for at least one individual, preferably a teen, and make them swallow the chip. In total a minimum of three individuals will be monitored, only one of them will be counselled, more if that works out.
+
+The hardest part is making them swallow a chip, but sinking it into their drinks should arise no suspicion.
+It’s pretty similar to a a date-drug situation, but for science.
+
+With that, I should have found three subjects by 1 am.
+Afterwards I can return home and start the monitoring.
+Simple as that.
+"*sip*   *Bzzzrt, bzzzzrt*"
+Glancing at the buzzing smartphone screen indicates it is now 6 pm. I turn off the alarm then pocket my phone. *blip sound*
+Time to leave again.
+
+
+[7pm, New Year’s Market]
+BG_terrace
+[FADE IN]
+First stop is the Market.
+Bustling with families and couples, the market is a popular spot for both the young and old.
+The biggest appeal of sitting out in the cold would foremost be the viewing spot for the fireworks, second the free drinks.
+
+Some stalls to the left of me are serving both hot and cold drinks, run by a youth organization.
+Now, the only way to smoothly hand a drink to someone here would be to act as a youth org. waitress.
+Luckily the only thing indicating you’re a waitress would be the the organisation’s hat and a pin that says “WAITRESS” on it.
+Scanning the area i find one waitress appearing distressed, like he’s in need of something.
+
+;;-Maya
+“You seem busy, need help sharing the drinks?”
+
+;;-Waitress Guy
+
+“Oh, yeah! Thanks! I really need to go right now…"
+char_waitress_hat_nervous
+[RIGHT]
+[SLIDE UP]
+
+"Please! Take my stuff and I’ll be right back!”
+char_waitress_hat_nervous
+[RIGHT]
+[]
+;;- 
+He puts the attire on me, handing the drink plate last and runs off with full force.
+[REMOVE]
+[RIGHT]
+[REMOVE]
+[RIGHT]
+I’m glad this was not a paid company… or his work ethic would count for low xp.
+First chip going in the beer…
+
+Strolling around the area, peering over the seats in search of somebody.
+This is really not that easy. I’m breaking a sweat.
+…
+Maybe that gloomy-looking blonde girl?
+She’s sitting in a large group of what i assume are college kids. They’re all chatting, but she remains silent.
+...I can’t assume enough from that alone but right now It’ll do as a first subject.
+
+;;-Maya 
+“Um”
+;;- 
+I can’t muster a sound, I’m hovering behind her, but no one turns a glance.
+So this is the power of being ignored by teenagers… no, young adults.
+No matter, I’ll simply hand the drink to her.
+
+I place the beer beside her.
+
+;;-Girl
+“huh?”
+
+Realizing my presence, the girl turns her head towards me.
+
+;;-Maya
+”Free drink. From the youth organization.”
+
+;;-Girl
+“ ...thanks.”
+;;- 
+Exchanging short interactions, the girl accepts the beer without questioning its contents.
+Her expressions are too blank for me to guess anything, not even a startle. Perhaps, she’s a real “silent type”.
+Now to make sure she drinks it.
+
+;;-Friend 1
+"Hey, will you hand me one too?"
+
+;;-Friend 2
+"Me too! All beers"
+
+;;-Maya
+”Um, yes! All beer coming up.”
+
+;;-
+Her apparent buddies at the table pull up their immediate attention for the drinks, giving me more time to make sure she swallows the DC-1.
+
+I peer back at her.
+...But she’s only sipping it!
+This unfortunate state i am left in, handing her a beer was a bad choice, it’s too much to assume she’d finish it…
+
+;;-Friend 3
+"Chug!"
+
+;;-Girl
+”huh?”
+
+;;-
+Fortunately enough her acquaintances begin proclaiming she chug the beer.
+
+;;-Friend 1
+"C'mon Joy, chug at least one, you need to drink more."
+
+;;-Joy
+”Alright, okay, if you’ll stop the commotion…”
+;;- 
+They settled in anticipation. The girl called Joy remained hesitant but chugged anyway.
+
+*bang* the emptied glass slams down on the table, appearing to barely hold together its thin walls.
+;;-Joy “uuuurk…”
+
+;;-
+The group bursts into apparent joy, but joy herself remains a bit glum. Regardless, she drank it which means my first task is cleared.
+I don’t know if i feel good putting her in that situation, but i can at least leave her be for now.
+
+;;-? 
+"Hey tall lady! I’m back!"
+
+;;-
+I turn around to see the genuine Youth Org. waitress running towards me with a big smile.
+
+;;-Waitress Guy
+”Thank you, really, thank you… I’m relieved off my burden. I’ll go back to my duty now.”
+char_waitress_happy
+[RIGHT]
+[SLIDE UP]
+“We’re not really supposed to let just anyone volunteer you know, hehe.”
+char_waitress_hat_nervous
+[RIGHT]
+[]
+
+;;-Maya
+”No need, thanks to you I was able to clear my own duty. Bye now.”
+;;-Waitress Guy
+”Huh?”
+char_waitress_hat_neutral
+[RIGHT]
+[]
+;;-
+//[transition from talking with Waitress guy to pc cafe]
+[8:30 pm MegaPC Cafe]
+[REMOVE]
+[RIGHT]
+[REMOVE]
+[RIGHT]
+BG_gameroom
+[FADE IN]
+
+The air here is different, but it’s not the atmosphere.
+It feels like the air has created its very own ozone layer. Surrounding the hall like a thick fog, minus the haze.
+I cannot remain here long, or I might need to douse myself in perfume for my next location.
+
+PC cafes are shut-in central. Here you will find gamers and lonely dropouts hanging right beside each other. The one place they’re truly liberated off of their I-D burden.
+What better place to find someone struggling, than here? I could’ve chosen to look for people here alone, but variation is always better; and on the other hand, I’d be put under suspicion by the staff if i stayed too long.
+I don’t really fit in here.
+To make the next subject drink this time, i’ll open an energy drink up and slip it in the opening at the same moment. The opening on the bottle perfectly disguises which moment i put it in. Plus there’s a 90% chance they’ll drink it.
+
+The search for the second kid begins.
+Again ,it doesn’t take long to find someone in this field of ripe crops.
+Further inside a boy slouches in his chair, reading an online comic. Again I’m choosing to go for the silent type. 
+… I really didn’t expect there to be such an obvious flaw in my way of finding subjects, but it doesn’t matter, as long as the monitoring works later, i’ll have someone.
+
+I grasp the can with both hands before grabbing his attention.
+
+;;-Maya 
+“What are you reading?”
+
+;;-Boy
+!?
+
+;;- 
+
+He jolts up in shock .
+
+;;-Boy
+“uhm, It’s called Berserk.”
+
+;;-Maya
+“Berserk hmm, … Recognized it as something else.”
+
+;;-Boy
+“It’s about a tough guy in a fantasy world getting revenge on an old friend.”
+
+;;-Maya
+“hmm… sound interesting. Want a Red Bull?”
+
+;;-Boy
+“...” 
+“Why?”
+
+;;-Maya
+”... Do you need a reason for free drinks?”
+
+;;-Boy
+”well, you just came up to me-”
+
+;;-Maya
+“And you talked with me. Not everyone does that.”
+“So… as a thanks for not ignoring me, a drink.”
+
+
+
+
+;;-Boy
+well… sure.”
+;;- 
+*click* pop it in discreetly aand… chip in.
+He grabs the can and drinks it in one go, showing a lack of precaution towards me and remaining in a leisurely mood. He drops his arms in a resting position against his knees and fiddles with the can.
+As i thought convincing someone here was easy. 
+
+;;-Maya
+”So why are you alone on new years?”
+
+;;-Boy
+“uh, so that’s what this is? Because I’m alone on new years…”
+“I guess you didn’t know everyone here goes outside and watches together too. I’m not technically alone.”
+“What’s the big idea anyway, all you adults try to put this sense of serious value in moments like tonight. Afterwards the night just passes and everything is back to normal.”
+
+;;-Maya 
+“Well that-”
+
+;;-Boy
+“I know what I want. Isn’t that enough? You don’t need to bribe me and tell me what’s right.”
+;;-
+The boy rambles on about his presumed idea of what i’m doing. He foolishly keeps going, leaving me no room to clarify.
+
+;;-Boy
+“Anyways thanks for the drink. Did you need something else? Or I’ll go back to reading.”
+Despite the stubborn talk his face had turned flustered and urged me on as to try and make me leave. Not that it matters.
+;;-Maya “No, i’m done. Happy new years.”
+
+;;-Boy
+“...Happy new years.”
+;;-
+2 down one to go, the boy remains, reading Berserk. There’s still one more place...
+
+//[Transition from PC cafe to golden swan]
+
+[10pm Golden Swan]
+
+BG_bar
+[FADE IN]
+
+Now I’m at the high-end bar Golden swan. Positioned 30 floors up a tall hotel building.
+ Mostly people with high standings and families can be found here on new years, a calm place with a fun atmosphere. You could compare it to the parrot café in terms of exclusivity.
+... I can’t get it out of my head, what that boy said. “I know what i want”... Why did he say that? Now that i look back, i remember seeing his I-D stats on the side of his monitor. All the regular criteria were quite low...
+...The I-D….
+
+I-D is paramount to society. With it humanity has been able to advance human skill to greater heights, it not only shows your identity, but also your skill and physical condition. 
+Skills are endless, when a new skill is registered, it pops up as a bar that can gain or lose XP. It is a digital monitor that has replaced the need to evaluate workers, because the I-D is almost flawlessly accurate, and updates in real-time.
+The very point of this feature was to give everyone a purpose, yet some still remain “defective”... It’s a flaw not just in the system, but in the human brain.]
+...I’m repeating information. Where was i? My vision blurred out as i though about the purpose of I-D’s.
+ At a moment’s notice a gust of warm air hits as the sliding glass doors open wide. Letting go of thoughts to step inside, 
+A group of four kids dressed in casual attire walk in behind me. They all appear excited.
+
+;;-???
+"There you are!"
+;;-Maya
+huh?
+;;-
+I turn back to look in front of me.
+Someone, a teenage girl with big, messy, dark hair and an oversized hoodie, stares eagerly in my direction.
+  ...her eyes aren’t directed towards me.
+
+The kid group rushes past me. They gather around the girl. I move to the side of the entrance, listening in on their conversation.
+Have i already found my next potential target, perhaps? Something tells me, there’s an interesting subject in here.
+
+
+;;-Tall Boy
+“Wow, you’re a lot shorter in real life.”
+char_tom_neutral
+[LEFT]
+[SLIDE UP]
+char_kara_normal_left_neutral
+[MIDDLE]
+[SLIDE UP]
+char_vexx_neutral
+[RIGHT]
+[SLIDE UP]
+
+;;-Chub Boy
+“But man, i was NOT expecting you would pick THIS as our first “pub” Kara."
+char_vexx_neutral
+[RIGHT]
+[TALK]
+
+;;-Tall Boy
+“It’s not even a pub It’s a luxury hotel bar… Kevin won’t even afford water here, haha.”
+char_tom_neutral
+[LEFT]
+[TALK]
+
+
+;;-Kevin
+[REMOVE]
+[RIGHT]
+[REMOVE]
+[RIGHT]
+“… I’m sorry mom”
+char_kevin_neutral
+[RIGHT]
+[SLIDE UP]
+
+
+;;-Kara 
+“You guys keep overreacting, we agreed I’d pick a secret place that’s less chaotic.”
+char_kara_normal_left_neutral
+[MIDDLE]
+[TALK]
+“Not only that, I’m the one in charge of paying, Kev. “
+char_kara_normal_neutral
+[MIDDLE]
+[TALK]
+
+;;-Tall Boy
+“Ha! YOU never admitted to having a big enough fortune for something like this. In fact you didn’t even wanna buy me a loot box at least FIVE times this month.”
+char_tom_neutral
+[LEFT]
+[TALK]
+
+;;-Kevin
+“I’d choose this, over a year of loot boxes.”
+char_kevin_neutral
+[RIGHT]
+[TALK]
+
+;;-
+They’re still standing less than a meter away from the entrance, letting the cold air seep in.
+
+They won’t stop chatting away with that rich girl “Kara” too. From what the conversation has been, i can’t tell why they're here other than to drink. But they look like they’re 15…
+
+;;-Maya
+*whispers* "unexpected, really interesting"
+
+The kids go quiet.
+
+...did i miss something? I don’t like this atmosphere, why are they suddenly quiet?
+They turn their head in my direction.
+char_kara_normal_neutral
+[MIDDLE]
+[]
+Are there more kids behind me?
+… oh, they’re looking at me this time.
+
+;;-Kara
+“guys! You’re making people stare standing here, hurry! Table, table--”
+char_kara_normal_nervous
+[MIDDLE]
+[BANG SHAKE]
+
+
+
+;;-
+Flustered, the kids scurry, bumping into people on the way.
+[REMOVE]
+[RIGHT]
+[REMOVE]
+[MIDDLE]
+[REMOVE]
+[LEFT]
+[REMOVE]
+[RIGHT]
+[REMOVE]
+[MIDDLE]
+[REMOVE]
+[LEFT]
+...right, kids are not like Josh. They either love confrontation, or they fear it like the plague.
+Now to get some drinks…
+
+
+
+Even though it is new year’s eve, this bar is only half-full. Considering the open space and lounge-like placements, I’m surprised those kids managed to bump into people.
+Kara went over to the bar alone. Leaving everything to her.
+
+Well, I just have to go take care of her drinks before she does and i’m almost done. I can’t wait to move on.
+...wait. That messy hair…
+The smirk, i recognize it from a mile away. It’s--
+Josh?! 
+Damnit! Did he lie to his very manager?! Change of actions, I’ll have to approach with even higher poise this time.
+That idiot- He’ll arise suspicion for my target.
+
+//[josh and the Kara appear on screen]
+
+
+;;-Josh
+“beers are for rookies girlie, try some of our great aged liquor instead!”
+char_josh_neutral
+[RIGHT]
+[SLIDE UP]
+char_kara_normal_neutral
+[MIDDLE]
+[SLIDE UP]
+;;-Kara 
+“Aged… liquor?”
+char_kara_normal_neutral
+[MIDDLE]
+[TALK]
+“Isn’t that really strong?”
+
+;;-Josh
+“haha, what kid worries about strength! I’m sure your buddies over there would much rather prefer a nice glass of pure class.”
+char_josh_neutral
+[RIGHT]
+[TALK]
+;;-Kara
+“uuhh, uhm.”
+char_kara_normal_neutral
+[MIDDLE]
+[TALK]
+
+
+;;-
+Oh for god’s sake, who let him stand as a bartender; I’m feeling a strange sensation of embarrassment just watching him.
+
+
+I rushed over to the scene and stopped josh the moment he attempts grabbing the liquor.
+;;-Maya “Just hand her four glasses of Demi-sec, now please.”
+
+;;-Josh
+“And who might you be- Guh!”
+char_josh_shock
+[RIGHT]
+[BANG SHAKE]
+;;-
+Josh chokes and realized the situation he had just put himself in, feigning confidence.
+He bends his body awkwardly and slides a question under his breath to me.
+
+;;-Josh 
+“...manager… why. Are. you. Here?”
+char_josh_shock
+[RIGHT]
+[TALK]
+
+;;-Maya
+”My, what a tardy bartender. Are you this slow with all guests?”
+”Hurting the name of a bar like this is surely not going to cash in more customers, is it?”
+
+;;-
+Josh swallows his words under defeat, letting go of the childish banter.
+
+;;-Josh
+“My apologies! Must be the skipped lunch getting to me, haha!”
+char_josh_neutral
+[RIGHT]
+[TALK]
+“Four glasses for you, girlie.”
+;;-Kara
+“Oh! Thanks!”
+Her idle stare of confusion turns flustered, she recieves the drinks, but remains fixed in place for the attention to turn back to her.
+char_kara_normal_nervous
+[MIDDLE]
+[TALK]
+
+;;-Josh
+”Girlie.”
+char_josh_neutral
+[RIGHT]
+[TALK]
+
+;;-Kara
+“Huh?! Y-yes?”
+char_kara_normal_nervous
+[MIDDLE]
+[TALK]
+
+;;-Josh
+”You can go now, it’s on a tab.”
+char_josh_neutral
+[RIGHT]
+[TALK]
+
+;;-Kara
+”Tab?”
+char_kara_normal_nervous
+[MIDDLE]
+[TALK]
+
+;;-Maya
+”you pay everything before you leave… Just don’t worry, okay! hmph.”
+
+;;-Kara
+” o-okay.”
+char_kara_normal_nervous
+[MIDDLE]
+[TALK]
+”...”
+
+;;-Josh
+”...”
+
+;;-Maya
+”...”
+-”Help?”
+
+;;-Kara
+”Sorry! I realised i don’t have enough hands-”
+char_kara_normal_nervous
+[MIDDLE]
+[TALK]
+
+
+;;-
+/My chance!
+
+;;-Maya
+” That’s alright, I’ll hand you the others shortly, so just hurry over with those two for now.”
+
+;;-Kara
+” Thanks!”
+char_kara_normal_nervous
+[MIDDLE]
+[TALK]
+
+;;-
+She wobbles off with a red face.
+[REMOVE]
+[MIDDLE]
+[REMOVE]
+[MIDDLE]
+Taking the chance when no-one is watching, i slip the last chip into one of the drinks. Thankfully the chips turn barely visible under water, or i’d be in a world of trouble right now.
+
+...But there’s another problem remaining.
+Returning back to his regular tone, Josh turns his attention to me again.
+
+;;-Josh
+”Hey, manager. What are you doing here.”
+char_josh_neutral
+[RIGHT]
+[TALK]
+
+;;-Maya 
+“I’d ask the same for you”
+
+;;-Josh
+”No more beating around the bush! Please, did you hunt me down?”
+char_josh_neutral
+[RIGHT]
+[TALK]
+”To uncover my embarrassing secrets?!”
+char_josh_shock
+[RIGHT]
+[TALK]
+
+;;-Maya
+”Whether you’d believe it or not, this had nothing to do with you.”
+
+;;-Josh 
+“Okay, i’ll come clean… Manager, I’m two-timing!”
+char_josh_neutral
+[RIGHT]
+[TALK]
+
+;;-Maya
+”Was letting your wallet go for a day too much to bare?”
+
+;;-Josh
+”to be honest… I was betrayed!”
+”my buddy never invited me. I was deserted, like an abandoned puppy; Stranded on a rainy street…”
+char_josh_annoyed
+[RIGHT]
+[TALK]
+” I decided, “Such foolish activities was never meant for me…”
+”And so, i came back to my part-time job here, to continue my journey for one million, but also to ponder life under the colourful curtains of fireworks.”
+char_josh_neutral
+[RIGHT]
+[TALK]
+”...Now, you know my secret.”
+
+;;-Maya 
+“I admire your dedication to work, Josh.”
+”This could go on your report. A rather nice discovery if you ask me.”
+”But I don’t have time to talk you to right now.”
+”so, good luck Josh.”
+
+;;-
+Moving deeper into the golden swan with the drinks in hand revealed the teens huddled around a group-size round table.
+[REMOVE]
+[RIGHT]
+[REMOVE]
+[RIGHT]
+
+Back then I didn’t ask if champagne was the drink she wanted, on the other hand she didn’t seem to have much in mind when Josh egged her on. No experience to turn to, no room for opinion if you have no experience.
+
+//[transition to group seat photo]
+
+;;-Maya
+”Here are your drinks.”
+BG_table_new_year
+[FADE IN]
+;;-
+I place out the drinks randomly between them, leaving the special one for Kara.
+Her hands remain busy on the her smartphone, I place it in the gap between her arms as a way to avert attention from it.
+She jerks her head up with a flustered expression, as expected.
+
+;;-Kara 
+"I’m sorry for disturbing your new years, uh, again, thank you… Ms..”
+
+;;-Maya
+”Maya”
+
+;;-Kara
+”Ms. Maya! Thanks.”
+;;-
+Kara swirls her finger around the glass rim and stares at it intently.
+
+;;-Kara
+”...Looks nice, it’s all bubbly. Ahaha!”
+
+;;-Tall Boy 
+"… That nervousness, It's too obvious, It hurts almost."
+;;-
+The kids follow her lead like a pack of confused mice, forcing me to act on the situation again.
+
+;;-Maya
+”are you going to taste it?”
+
+;;-Kara 
+“Oh right! Can’t have a drink and not drink it haha. *sip* 
+;;-
+She lights up in surprise.
+
+;;-Kara
+“It’s so sweet! I was expecting something more… strong?
+
+;;-Kevin
+”that’s my… drink.” *cough* “ugh.” 
+
+;;-Tall Boy
+“Aren’t they all the same?”
+
+;;-Maya
+”I got you a sweeter kind however champagne isn’t that strong to begin with.”
+
+;;-
+Really now, their weakness should be enough to constitute they’re underage to others, luckily noone is staring right now…
+;;-Kevin
+” I see, ahaha” *cough*
+
+;;-Maya 
+“What are your names?”
+
+;;-Kevin 
+*Choke*
+
+;;-Kara 
+“name? Oh! I can tell you right… I’m Kara.”
+
+;;-Tall Boy 
+“Man, you’re so stiff it’s embarrassing, Kara; It’s too obvious how new we are.”
+”I’m Tom, by the way.”
+
+;;-Chub Boy 
+“You’ll be quiet about the scene we made right? It wasn’t too obvious right?! I’m Vexx! “
+
+;;-Kevin
+” not your GO name, stupid.”
+
+;;-
+Vexx forgets to give me his real name as he turn his attention to all the appetizers in front of them.
+
+;;-Maya 
+“... thanks. I just needed to know, so i can keep track of you ...in case you get to drunk.”
+
+;;-Tom 
+“woah you’re gonna be our temporary mom? I’m not getting wasted off this though, i'll just sip it!”
+
+;;-
+With that posh attitude Kara might not swallow the chip, and it sank to the bottom already!
+
+;;-Maya
+”No. You chug.”
+
+;;-Kevin 
+“Chug?!”
+
+;;-Maya
+“um, since i helped you out, I think you should celebrate a free drink by chugging! It’s just a small glass of champagne, so you should be fine.”
+” Also, if you chug it, i will pay for the rest of your future drinks, and also give you some nicer treats from the bar… i know the bartender.”
+
+;;-Kevin 
+“Woah, if you say so! ”
+
+;;-Vexx 
+"Kara, the timing is now, show them the true GO champions Mutli-skilled personality.”
+
+;;-Kara
+“Oh now you’ve done it. IT IS my title after all, i’ll flush this drink down the ranks!”
+
+;;-
+Karas attitude changes quick, like it’s a different persona? I can think about that during the monitoring..
+All the boys in unison slip the sparkly beverage down their throats, just like Kara.
+
+;;-Kara
+”Aah! Refreshing.”
+”By the way, Ms. Maya. You don’t have to do any of those favours. I made the promise to do that, after all. Hic.”
+
+;;-Tom
+“She got the hiccups already, honestly…”
+;;-Kevin
+”Oh no, the GO champion is a lightweight. What to do…”
+;;-
+The boys are snickering.
+;;-Vexx
+“hmm. An unfortunate but needed character flaw.”
+
+;;-Tom
+“Ms.Maya, it’s fine. Don’t sacrifice your New year’s for us. We’ll take this from here.”
+;;-
+For being a bunch of kids, they sure are managing this better than expected. Which for my case is good. Saying I’d stay was a risky move to begin with.
+
+;;-[Speaker Announcement]
+”Happy new year’s eve everyone. The Golden Swan crew would like to remind that it is now 30 minutes left until midnight. Please go take your seats and relax against our spectacular glass wall view and get ready for the firework show to start.”
+
+;;-Tom
+”... i guess my advice wouldn’t make much difference now.”
+
+;;-Maya
+”that’s alright, I was going to watch the fireworks here to begin with. Happy new year’s”
+
+;;-
+I trade a smile with Tom and his group of friends. For the rest of the time they discussed “GO” related topics which i could barely understand, Josh kept serving drinks at the bar and a crowd slowly gathered.
+Before i knew it, the countdown was already here.
+;;-[Speaker Announcement]
+“3… 2… 1… Happy new years!”
+
+;;-
+The crowd bursts in cheers.
+BG_bar_fire
+[FADE IN] 
+Fireworks blossoming like Chrysants in the sky; Dispersing and exploding again.
+A spectacular sight enough to wake superstitious thoughts in the most nihilistic of individuals.
+Happy faces, thoughtfull smiles that can’t let go of the sight.
+Resolutions getting carried with the same weight as wishes, people praying to the chrysants as if a god was present inside those lights. 
+In those wishes carry deep truths.
+...Truths I’m about to uncover.
+
+//[transition to dark and back to Mayas room]
+[1:30 AM Maya’s apartment]
+BG_black
+[FADE IN]
+
+Greeting me back home is the same dark blue as this morning, only to be quickly swept away by the press of a switch.
+
+;;-Maya
+“Aah, tired”
+;;-
+That sofa across the room is looking at me invitingly at the moment. Regardless of how much i’d want to, I’m not done here.
+
+Waiting for me is my pc, set up with extra monitors and a silly-looking sci-fi helm. With it I can connect the dream response coming from the subjects, emulating it onto a monitor; Not that I’ve actually tried it before.
+Still, the way i’ve designed it all should give a favourable outcome.
+
+Only 1 in 100 of my projects “fail” at first attempt. The odds are in my favour. Waiting 365 more days isn’t worth my time either.
+
+Let’s see… someone should be asleep at this point. Better put the helmet on-
+Man, i’m getting kind of excited for once. This untouched device, is about to get used!
+I sit down and face the monitor with my helmet on.
+*breathe in*
+*breathe out*
+*switch on*
+As expected. Only three screens turned on, indicating three users have the DC-1 active inside them.
+BG_screens_all_dark
+[FADE IN]
+now to wait for someone.
+…
+…
+Argh, does all youth sleep late on nights like this?
+…
+;;-Maya
+"there!"
+BG_screens_boy
+
+;;-
+First screen to the left- PC cafe boy!
+And he’s dreamzing of… some fantasy world it seems. Wait a minute. That looks like the comic he read earlier!
+And this could mean… an adventure, perhaps? 
+My left hand scribbles down the results as i keep watch of the screen.
+Hm…
+An adventurous dream. He did show determination before, it’s not that big an anomaly.
+...This first subject is an utter failure. This dream is not that different from his  real-life self.
+Sigh…
+….
+30 minutes pass of a young boy swinging a sword in a strange scary forest and to the right another screen lights up.
+BG_screens_boy_girl
+The girl from the outside terrace.
+In the dream the girl is puzzling together little geometrical puzzle pieces into a sandcastle with holes.
+
+It’s dawn/evening, and the girl is continuously adding more pieces into the castle, as if it was void on the inside.
+These books i read on a dreams meaning tells me that means, hm. A loop related to childhood.
+I just can’t be sure if these books hold any scientific value…
+
+The dreams moves onward to her eating icecream with some older lady. 
+….
+...It’s a wish to go back to the past, or to remain as the past.
+An hour went of staring at the two dreams and documenting as time went, I sat back waiting, wishing and doing practically nothing as i feel my body go limp from lack of interest.
+Typical dreams that hold fantasy, but not much passion. I want that “passion”.
+
+If the last dream doesn’t deliver, i could keep monitoring them for any change.
+
+Time passed. For ten minutes, thirty minutes, an hour…
+I found myself to be staring at the monitors without much hope, half falling asleep, no new notes were added to the notebook but  “Status: Average”.
+...It might’ve been a bigger mistake not to randomly choose 6 or more subjects.
+I can’t revert at this moment.
+I jolted back into action as a middle panel lit up in all white before me.
+BG_screens_all_on
+Finally it’s the last subject, that “Kara” girl will show up.
+Leaning forward onto the screen, I stare intently at the white LEDs.
+    ....
+...
+ ….
+Nothing?!
+Perhaps, did it break?
+....
+Sigh.
+the rush quickly fade and i slumped back into the chair.
+Yesterday I made sure to-
+
+//[screen twitches]
+
+Oh, don’t malfunction now. Where is this static coming from-
+BG_screens_all_blur
+//[twitch] [twitch] 
+
+//[the corruption animation becomes constant, making the white screen show noise, there are some rainbow effects around the edges]
+
+;;-Maya 
+”Argh, damnit! Something’s severely broken!”
+;;-Maya
+”the cable, disconnect the cable-"
+;;-
+//[as Maya reaches for the monitor cable, the screen zooms quickly to that area]
+//[-and shuts off like a retro tv]
+//[a few second pause in a black bg turns slowly to white, almost blending light]
+
+
+
+…
+Ugh.
+BG_dream
+[FADE IN]
+Oh. I’m not tired anymore,i slept…
+//[clear image]
+...what is-
+//[kara turn her head panning over the environment]
+;;-Maya
+”This isn’t my room.”
+;;-
+Making sense of the situation i do a classic pinch to check reality.
+//[distortion on screen]
+What?!
+//[pinches 3 time more w distortion]
+…
+//[pans to mirror]
+//[zoom in on BG for mirror]
+//[dramatic music]
+huh, huh?!
+Who is this?! My hair is blonde! What is this outfit?! My headset is gone.
+Unprecedented, absolutely abnormal. This hair doesn’t feel like a wig either.
+I look… incredibly stupid! Reminds me of that turquoise space princess in “super mushroom” If i can recall. Perhaps this is my dream?
+//[footstep sound] [camera pan to the entrance door]
+
+something has gone very wrong. There’s either two possibilities, 1. I’m dreaming, 2. I’m in her dream.
+//[foot steps] [Door creak open and shuts] [Kara sprite appears]
+;;-Kara
+” wow… even the inside is pretty.”
+BG_dream_kara_neutral_left
+[FADE IN]
+…!
+;;- 
+I knew it, a severe bug put me in her emulation. I’m both intrigued, and terribly confused…
+I can’t let her notice something’s wrong. For now, l have to pretend I’m a part of this.
+;;-Maya 
+”H-Hey, Welcome back, mm-my lady
+;;-Kara
+“Ahaha, I’m pleased to be back, Alicia!”
+BG_dream_kara_happy
+;;-
+(Alicia…? She’s mistaken me for someone called Alicia, I’d like to keep it that way right now.)
+(Kara proceeds to sit down by a table and stares at a menu labelled “Bluebird café”)
+;;-Kara
+“hmm, can i have a golden berry parfait please?”
+BG_dream_kara_neutral_facing
+
+;;-Maya
+“um, of course! Wait there.” 
+;;-
+This scenario has eerie similarities to the time i met her at the loft. I better not set off her memory.
+It’s just that my nerves… why can’t i calm down?
+
+Just in front of her table stands an icecream bar with one readily presented parfait resting on top.
+...As expected of a dream. Acting might not be so challenging so long her fantasy does the right things.
+I place the dessert gently on the table and move over to sit opposite of Kara.
+
+//Surprised
+;;-Kara
+Wow! The presentation is so cute, and the taste… like champagne!
+BG_dream_kara_happy
+
+;;-Maya
+"..."
+“Is that so?”
+
+;;-
+I didn’t notice at first, but the DC monitor controller has been sitting in this dress pocket this whole time.
+i might be able to coax her out of here. First i want to find out more about her dream.
+
+;;-Kara
+“You know, today was New year’s eve so i went out with my friends in the GO team. We went to a bar for the first time! Although the others made it really awkward…”
+BG_dream_kara_neutral_left
+“I just wanted to try the adult way of y’know, letting go for a day. I can’t remember what happened after i drank a glass but, that still didn’t change my memory. I mean i’m recalling it clearly right now even when i’m dreaming haha.”
+BG_dream_kara_happy
+”Anyways, this dumb xp system won’t stop bugging me, especially around this time of year. I want to just “do” something, but I’m stuck with these uneven values… and you know i don’t have enough time to fix it.”
+BG_dream_kara_annoyed_left
+;;-
+why does someone her age complain about time? Ah. perhaps… she’s an I-D defect! That’s perfect.
+
+;;-Maya 
+"What does “fixing” imply"
+;;-Kara 
+"… I’m gonna assume you forgot everything i told you last time, sigh.. But it’s Alicia so it’s ok."
+BG_dream_kara_annoyed_facing
+"You know how i’m one of the top GO players, i’ve competed in tournaments for at least 5 years now, my position has barely changed all this time and everyone is sure about this being the career for me and all that, now that i’m “expert level” skilled."
+BG_dream_kara_neutral_facing
+"Honestly, GO was fun, it was fun, i wouldn’t have spent so long playing otherwise. But, I was stupid enough to forget everything else, being 12, having time, freedom and wealth to do anything."
+BG_dream_kara_annoyed_facing
+"year after year, my XP in GO grew so much, i could be qualified as a national professional in that “field”, haha, it’s so dumb."
+"If my parents knew i actually wanted to quit GO, they’d cut my funds… besides, I’m graduating in 6 months, there are no alternatives for me now.” I’m giving up."
+
+;;-
+that’s right. The biggest flaw with the I-D is how competitive skills have gotten. 
+Be too late with developing a skill and you might never enter that field you want, so competitive parents will go anything to develop skill from a young age. 
+And the most probable outcome is her being from such roots. The wish to be something else, that’s not something you should debate at the late age of 18.
+
+;;-Maya
+"...And now you assume you’re permanently stuck? Even though there is a solution?"
+
+;;-Kara
+"There is?"
+BG_dream_kara_neutral_facing
+
+;;-Maya
+"Affirmative, And… and so, I’ll show you, grab my hand."
+
+;;-
+I hold out my hand to Kara who reluctantly holds on and pulls her up. Kara’s probably not wanting to end it now but that’s of lesser importance. 
+I distract her away from the conversation in order to end the dream.
+BG_blur_white
+[FADE IN]
+
+;;-Maya 
+"Hurry!"
+
+;;-
+I run holding her hand, leading her to the second exit. Right before we exit the door through the white light, i press a button on my controller.
+
+
+//[shut of tv noise] [screen turns black]
+//[fade back into the pc room]
+
+
+Abruptly consciousness enters back into the real world. I hastily pull off the headset and notice my hands are shaking.
+BG_screens_all_dark
+[FADE IN]
+
+;;-Maya
+“sigh… what was that? A solution? Hah, i did say that but… just how low are her other stats…?”
+;;-
+I grab my notebook and write down anything of importance, then glancing back up at the monitors, they’re all shut off, a sign no-one is dreaming.
+;;-Maya
+” Date…-- time, 5 am. Sigh.”
+
+;;-
+Well, one this is certain, i have a target, someone i need to “change”, luckily, she told me her worry in the dream, not what it was she wanted to become but, enough for now.
+My head hurts, i need to make a plan… tomorrow.
+
+Waddling over to the livingroom my body belly flops onto the sofa, silent darkness drifts me off to sleep.
+
+-End of Ch1- 
+
+-+-
+

@@ -1,0 +1,50 @@
+;;-Big Guy
+I am stronk.
+The stronkest of them all.
+No one has been able to beat me because of how stronk i am.
+Stronk stronk stronk.
+Who is the stronkest around?
+
+%%2
+Me
+You
+
+(1)#1
+Hoho you want to fight?
+I am the stronkest man alive.
+You are just big talk, little muscle.
+(End Choice)
+
+(1)#2
+You smart!
+Me proud of you.
+(End Choice)
+
+If you wanna get stronk, im gonna teach you.
+Actually i dont care, ill teach you anyways.
+So what do you wanna learn first?
+
+%%4
+Cooking eggs.
+Making bagels.
+How to kill an entire army in one hit.
+Shove cucumbers up my ass.
+
+(2)#1
+Very well cooking eggs it is.
+(End Choice)
+
+(2)#2
+Very well, ill show you how to make the sweetest of bagels.
+(End Choice)
+
+(2)#3
+Alright if thats what you want to learn, ill help.
+(End Choice)
+
+(2)#4
+LUBE LUBE LUBE LUBE.
+(End Choice)
+
+Hope yer satisfied.
+-+-

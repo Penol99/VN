@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 4dfdab76b5f7931489b21c4fe9283eb9
+timeCreated: 1519738538
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VN UI_0
+    21300002: VN UI_1
+    21300004: VN UI_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 147, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VN UI_0
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1
+        width: 109
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VN UI_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 1920
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VN UI_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 148
+        width: 1752
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 395.5, y: -211.5}
+      - {x: 395.5, y: -237.5}
+      - {x: 508.5, y: -237.5}
+      - {x: 508.5, y: -211.5}
+      - {x: 506.5, y: -209.5}
+      - {x: 397.5, y: -209.5}
+    - - {x: 515.5, y: -211.5}
+      - {x: 515.5, y: -237.5}
+      - {x: 628.5, y: -237.5}
+      - {x: 628.5, y: -211.5}
+      - {x: 626.5, y: -209.5}
+      - {x: 517.5, y: -209.5}
+    - - {x: 635.5, y: -211.5}
+      - {x: 635.5, y: -237.5}
+      - {x: 748.5, y: -237.5}
+      - {x: 748.5, y: -211.5}
+      - {x: 746.5, y: -209.5}
+      - {x: 637.5, y: -209.5}
+    - - {x: 755.5, y: -211.5}
+      - {x: 755.5, y: -237.5}
+      - {x: 868.5, y: -237.5}
+      - {x: 868.5, y: -211.5}
+      - {x: 866.5, y: -209.5}
+      - {x: 757.5, y: -209.5}
+    - - {x: -599.5, y: 237.5}
+      - {x: -960.5, y: 237.5}
+      - {x: -960.5, y: -90.5}
+      - {x: -959.5, y: -91.5}
+      - {x: 960.5, y: -91.5}
+      - {x: 960.5, y: 185.5}
+      - {x: -599.5, y: 185.5}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

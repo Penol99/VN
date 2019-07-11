@@ -1,0 +1,67 @@
+Syntax for DialogueWrite.
+
+
+{ is used for monologue (isnt neccessary)
+"" is used for actual talking
+
+SONG #0
+//Plays the song thats in musicList[0] inside AudioManager.
+
+;;-Miguel Blix 
+//Replace my name with the name of the character thats talking.
+
+%%2, %%3, %%4
+// This will trigger a choice box with 2, 3 or 4 choices depending on what you choose.
+
+(number)#number
+// Replace the number texts with actual numbers, lets take 1 for example.
+// (1)#1  the (1) means that its the first choice you have to make in the game.
+// the #1 means its the first choice in the choice selection.
+// (1)#1 will now display dialogue if you picked the first choice in the first choice pick in the game.
+
+(End Choice)
+// Type this at the end of every choice to conclude its ending.
+
+-+-
+// This means that the dialogues end has reached, the dialogue box will close down when this is written.
+
+char_charname_expression
+[RIGHT]  //can also be [LEFT] or [MIDDLE]
+[SLIDE UP] // this is to activate the sprite for a character and which side it will pop up on the screen
+		 // and slide up is the animation of sliding up from the bottom of the screen
+
+
+Heres and example of how we could use this syntax.
+// Blank lines will be ignored and therefore they can be added to make it easier to read
+// its also possible to make comments on blank lines, they will also be ignored by the system.
+
+;;-Cheesus Crust            
+Hello i am Cheesus Crust.  // This is dialogue, everytime theres a new line,
+I am the cheesiest crust.  // it will be separated into the next dialogue box.
+Do you like cheesy crust?.
+
+%2						   // Considering we only used %2 instead of %3 or %4, there will only be 2 choices to make.
+Yes						   // Changing the line will change make a new choice
+No
+
+(1)#1
+char_cheesus_happy
+[MIDDLE]
+[SLIDE UP]
+I knew i could trust you, i also love cheesy crust.   // This will display if you picked the first choice
+(End Choice)
+
+(1)#2
+char_cheesus_shocked
+[MIDDLE]
+How dare you!?, how can you not like cheesy crust!?!. // This will display if you picked the second choice
+(End Choice)
+
+Anyways i will always love cheesy crust nonetheless of what you say.
+-+-
+
+
+
+
+
+
